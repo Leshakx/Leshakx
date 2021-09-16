@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leshakx
 - 👀 I’m interested in programming and gaming c; 
-- 🌱 I’m currently learning C++ and .Net 
+- 🌱 I’m currently learning .Net technology
 - 💞️ I’m looking to collaborate on some interesting project for beginners 
 - 📫 How to reach me: mail me on luk.jarosinski@gmail.com
